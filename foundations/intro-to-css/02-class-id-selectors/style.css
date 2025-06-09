@@ -1,0 +1,19 @@
+.odd {
+    background-color: #f9a4b2;
+    font-family: 'Verdana', 'DejaVu', 'sans-serif';
+    font-size: 18px;
+}
+#blue {
+    color: #0000ff;
+    font-size: 32px;
+}
+.times {
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+#green {
+    background-color: rgb(141, 235, 141);
+    font-weight: bold;
+}
+.large {
+    font-size: 24px;
+}
