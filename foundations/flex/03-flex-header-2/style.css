@@ -15,8 +15,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 8px;
-  margin: 8px;
+ 
 }
 .left-header, .right-header {
   display: flex;
@@ -35,7 +34,6 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
-  margin: 8px;
 }
 
 button {
@@ -57,7 +55,7 @@ ul {
   list-style-type: none;
   display: flex;
   align-self: center;
-  margin: 0;
+  margin: 8px;
   padding: 0;
   gap: 8px;
 }
